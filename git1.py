@@ -9,4 +9,5 @@ Original file is located at
 
 def wishsomeone():
   print('Hi, Hello !!')
+  print('Good morning')
 
